@@ -27,7 +27,6 @@ namespace primos
         static bool inteiro;
 
 
-
         static void Main()
         {
             while (0 == 0)
@@ -39,8 +38,8 @@ namespace primos
 
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.Write(linha + "\n" +
-                                  "Escolha uma das opções:\n" +
-                                  linha + "\n");
+                                  "Escolha uma das opções:         github.com/DanielSvoboda\n" +
+                                  linha + "\n") ;
                 Console.ResetColor();
 
                 Console.Write("1- Verificar 1 número\n" +
@@ -244,7 +243,6 @@ namespace primos
             if (int.TryParse(numero, out saida))
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-
                 Console.WriteLine(entrada + "/" + i + "\t = \t" + saida + "\t\t\tInteiro");
                 inteiro = true;
 
