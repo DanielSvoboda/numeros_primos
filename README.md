@@ -1,5 +1,5 @@
 # Números Primos
-•DOWNLOAD: https://github.com/DanielSvoboda/números_primos/raw/main/númerosPrimos.exe
+•DOWNLOAD: https://github.com/DanielSvoboda/numeros_primos/blob/main/numerosPrimos.exe?raw=true
 <br>
 Programa em C# windows forms .NET Framework 4.7.2 <br> <br>
 Com o objetivo de identificar se um numero é primo. <br> <br>
