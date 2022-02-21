@@ -1,7 +1,7 @@
 # Números Primos
 •DOWNLOAD: https://github.com/DanielSvoboda/numeros_primos/blob/main/numerosPrimos.exe?raw=true
 <br>
-Programa em C# windows forms .NET Framework 4.7.2 <br> <br>
+Programa em C# (Aplicativo do Console) .NET Framework 4.7.2 <br> <br>
 Com o objetivo de identificar se um numero é primo. <br> <br>
   <img width="900" alt="portfolio_view" src="https://raw.githubusercontent.com/DanielSvoboda/números_primos/main/print_0.png">
 <br><br>
