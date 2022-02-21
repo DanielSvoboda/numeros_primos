@@ -1,10 +1,9 @@
 # Números Primos
 •DOWNLOAD: https://github.com/DanielSvoboda/números_primos/raw/main/númerosPrimos.exe
-<br><br>
-Programa em C# windows forms .NET Framework 4.7.2
+<br>
+Programa em C# windows forms .NET Framework 4.7.2 <br> <br>
+Com o objetivo de identificar se um numero é primo. <br> <br>
   <img width="900" alt="portfolio_view" src="https://raw.githubusercontent.com/DanielSvoboda/números_primos/main/print_0.png">
-  <br><br>
-Com o objetivo de identificar se um numero é primo.
 <br><br>
 Contem 5 Funções:
 <br><br>
